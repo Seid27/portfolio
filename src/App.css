@@ -1,0 +1,73 @@
+html body{
+  
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424; 
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nav{
+  background-color: #183055;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  
+}
+
+.nav-link {
+  color: #fff;
+}
+
+
+.projects{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #2f5836;
+  color: #242424;
+}
+
+.img-fluid{
+  height: 300px;
+}
+
+.card{
+  height: 500px;
+  background-color: #efefef;
+  border: none;
+}
+
+.card-body{
+  padding: 30px;
+}
+
+#projects-h1{
+  color: #efefef;
+  padding-bottom: 30px;
+}
+
+.skills{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #713f3f;
+
+}
+
+.skills ul{
+  list-style-type: square;
+}
+
+footer{
+  background-color: #242424;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  
+}
+
+
